@@ -1,0 +1,12 @@
+{
+  "name": "idyll-plugin-spellcheck",
+  "version": "1.0.0",
+  "description": "Spellchecking for Idyll",
+  "main": "index.js",
+  "repository": "https://github.com/idyll-lang/idyll-postprocessors",
+  "author": "Matthew Conlen",
+  "license": "MIT",
+  "dependencies": {
+    "spellchecker": "^3.4.4"
+  }
+}

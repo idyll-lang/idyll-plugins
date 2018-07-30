@@ -1,4 +1,4 @@
-# idyll-postprocessors
+# idyll-plugins
 Place for defining Idyll compiler post-processing transforms.
 
 ## Available plugins

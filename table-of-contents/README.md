@@ -1,9 +1,27 @@
 
 # Table of Contents plugin
 
-To install, do the following: 
 
-* Install the plugin via NPM i.e with table-of-contents, run `npm install idyll-plugin-table-of-contents`
-* To use the plugin place `[TableOfContents /]` where you want the table of contents to appear in your document. 
+## Installation
 
-This plugin uses section headers to determine sections on your page.
+```
+$ npm install --save-dev idyll-plugin-table-of-contents
+```
+
+Add it to your idyll configuration in `package.json`:
+
+```json
+"idyll": {
+  "compiler": {
+    "postprocessors": ["idyll-plugin-table-of-contents"]
+  }
+}
+```
+
+
+
+## Usage
+
+To use the plugin place `[TableOfContents /]` where you want the table of contents to appear in your document. 
+
+This plugin uses section headers to determine section heirarchy on your page.

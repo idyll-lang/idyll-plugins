@@ -13,7 +13,7 @@ Add it to your idyll configuration in `package.json`:
 ```json
 "idyll": {
   "compiler": {
-    "postprocessors": ["idyll-plugin-spellcheck"]
+    "postProcessors": ["idyll-plugin-spellcheck"]
   }
 }
 ```

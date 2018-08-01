@@ -13,7 +13,7 @@ Add it to your idyll configuration in `package.json`:
 ```json
 "idyll": {
   "compiler": {
-    "postprocessors": ["idyll-plugin-table-of-contents"]
+    "postProcessors": ["idyll-plugin-table-of-contents"]
   }
 }
 ```

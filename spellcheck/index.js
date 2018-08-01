@@ -8,4 +8,5 @@ module.exports = (ast) => {
   misspellings.forEach(({start, end}) => {
     console.warn(`Found misspelling: ${text.substring(start, end)}`);
   })
+  return ast;
 };

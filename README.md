@@ -11,7 +11,7 @@ See each plugin for specific installation and usage instructions.
 
 * [Spellcheck](https://github.com/idyll-lang/idyll-plugin-spellcheck)
 * [Table of Contents](https://github.com/idyll-lang/idyll-plugin-table-of-contents)
-* [Git Revisions](https://github.com/ChristianFrisson/idyll-plugin-revision)
+* [Git Revisions](https://github.com/idyll-lang/idyll-plugin-revision)
 
 ### Runtime Plugins
 

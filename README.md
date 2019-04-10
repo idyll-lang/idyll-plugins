@@ -15,7 +15,8 @@ See each plugin for specific installation and usage instructions.
 
 ### Runtime Plugins
 
-* [URL State Synchronization](https://github.com/idyll-lang/idyll-plugin-url-state)
+* [URL State Synchronization](https://github.com/idyll-lang/idyll-plugin-url-state) - serialize the article state into the URL. Allows readers to share the article in a particular configuration. 
+* [Analytics](https://github.com/idyll-lang/idyll-analytics) - collect detailed usage data to learn how readers are interacting with your article.
 
 To use multiple runtime plugins simultaneously, use [idyll-context-compose](https://github.com/idyll-lang/idyll-context-compose).
 
